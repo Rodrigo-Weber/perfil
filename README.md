@@ -1,12 +1,12 @@
 ### Hello I am Rodrigo Weber 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitorsampaio2022
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-weber-70163a274/
 )
 
 <div style="display: flex">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldsider&show_icons=true&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=OldSider&&hide=css,html&layout=compact&langs_count=8&card_width=30&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Weber_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo-Weber&&hide=css,html&layout=compact&langs_count=8&card_width=30&theme=dracula)
 </div>
 
 
