@@ -5,7 +5,7 @@
 
 <div style="display: flex">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Weber_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Webericons=true&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo-Weber&&hide=css,html&layout=compact&langs_count=8&card_width=30&theme=dracula)
 </div>
 
